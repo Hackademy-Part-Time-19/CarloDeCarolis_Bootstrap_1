@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'Benton_Sans';
+    src: url('BentonSansComp-Black.woff') format('woff')
+}
+
+body {
+    font-family: 'Benton_Sans';
+}
+
+
+header {
+    font-family: 'Benton_Sans';
+    text-transform: uppercase;
+    color: black;
+}
